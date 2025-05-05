@@ -1,0 +1,11 @@
+Session ID,Path,Length
+Session 1,Home → Products → Cart → Checkout,4
+Session 2,Home → Account → Home → Products,4
+Session 3,Home → Products → Home → Account,4
+Session 4,Products → Cart → Checkout,3
+Session 5,Home → Products → Cart → Home,4
+Session 6,Account → Home → Products → Cart,4
+Session 7,Home → Products → Account,3
+Session 8,Products → Cart → Checkout → Home,4
+Session 9,Home → Account → Products,3
+Session 10,Products → Home → Products → Cart → Checkout,5
